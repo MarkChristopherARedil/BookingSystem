@@ -1,0 +1,16 @@
+
+/* 3rd Section: Background image */
+#section3 {
+	background-image: url(../img/banner.jpg);
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+
+/* Footer: Background image */
+#section5 {
+	background-image: url(../img/footer.png);
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
